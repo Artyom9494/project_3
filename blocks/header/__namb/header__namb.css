@@ -1,6 +1,7 @@
 .header__namb {
     font-family: Montserrat;
-font-size: 18px;
-font-weight: 700;
-line-height: 22px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    z-index: 2;
 }

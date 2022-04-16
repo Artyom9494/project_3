@@ -3,13 +3,33 @@
 @import url(../blocks/page/page.css);
 /* fonts */
 @import url(../vendor/fonts/font_Montserrat.css);
+/* content */
 @import url(../blocks/content/content.css);
+@import url(../blocks/content/__backUp/content__backUp.css);
+@import url(../blocks/content/__back1/content__back1.css);
+@import url(../blocks/content/__back2/content__back2.css);
 /* header */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__nav/header__nav.css  );
+@import url(../blocks/header/__img/header__img.css);
 @import url(../images/logos\ 1.png);
 @import url(../blocks/header/__contact/header__contact.css);
 @import url(../blocks/header/__phon-logo/header__phon-logo.css);
+@import url(../blocks/header/__status/header__status.css);
 @import url(../blocks/header/__link/heder__link.css);
 @import url(../blocks/header/__link/_underline/heder__link_underline.css);
 @import url(../blocks/header/__namb/header__namb.css);
+/* info */
+@import url(../blocks/info/info.css);
+@import url(../blocks/info/__title/info__title.css);
+@import url(../blocks/info/__subtitle/info__subtitle.css);
+@import url(../blocks/info/__pizza/info__pizza.css);
+@import url(../blocks/content/__back3/content__back3.css);
+@import url(../blocks/content/__back4/content__back4.css);
+@import url(../blocks/content/__back5/content__back5.css);
+/* menu */
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__title/menu__title.css);
+@import url(../blocks/menu/__sales/menu__sales.css);
+@import url(../blocks/menu/__nav/menu__nav.css);
+@import url(../blocks/menu/__link/menu__link.css);

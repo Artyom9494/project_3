@@ -1,0 +1,13 @@
+@keyframes anim {
+    from {
+        transform: rotate(360deg);
+    }
+}
+
+.content__back4 {
+    position: absolute;
+    top: 144px;
+    left: 30px;
+    z-index: 1;
+    animation: anim 6s ease-in-out infinite;
+}

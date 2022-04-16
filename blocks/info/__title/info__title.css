@@ -1,0 +1,9 @@
+.info__title {
+    text-align: center;
+    margin: 105px auto 18px;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 59px;
+    z-index: 2;
+}
