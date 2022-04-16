@@ -33,3 +33,13 @@
 @import url(../blocks/menu/__sales/menu__sales.css);
 @import url(../blocks/menu/__nav/menu__nav.css);
 @import url(../blocks/menu/__link/menu__link.css);
+@import url(../blocks/menu/__grid/menu__grid.css);
+@import url(../blocks/menu/__info/menu__info.css);
+@import url(../blocks/menu/__dish/menu__dish.css);
+@import url(../blocks/menu/__line/menu__line.css);
+@import url(../blocks/menu/__dish-neme/menu__dish-neme.css);
+@import url(../blocks/menu/__dish-characteristic/menu__dish-characteristic.css);
+@import url(../blocks/menu/__subtitle/menu__subtitle.css);
+@import url(../blocks/menu/__price/menu__price.css);
+@import url(../blocks/menu/__buy/menu__buy.css);
+@import url(../blocks/menu/__random/menu__random.css);

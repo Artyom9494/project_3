@@ -1,0 +1,8 @@
+.menu__grid {
+    max-width: 1160px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 260px);
+    grid-row: auto;
+    gap: 10px 40px;
+}
