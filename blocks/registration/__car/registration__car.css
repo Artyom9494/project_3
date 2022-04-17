@@ -1,0 +1,8 @@
+.registration__car {
+    position: absolute;
+    top: 301px;
+    left: 378px;
+    height: 342px;
+    width: 684px;
+    z-index: 1;
+}

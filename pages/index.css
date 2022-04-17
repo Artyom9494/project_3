@@ -59,4 +59,5 @@
 @import url(../blocks/registration/__form-conteiner/registration__form-conteiner.css);
 @import url(../blocks/registration/__form/registration__form.css);
 @import url(../blocks/registration/__button/registration__button.css);
-@import url();
+@import url(../blocks/registration/__back/registration__back.css);
+@import url(../blocks/registration/__car/registration__car.css);
