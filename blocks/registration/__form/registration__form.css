@@ -1,0 +1,15 @@
+.registration__form {
+    box-sizing: border-box;
+    margin: 0;
+    height: 60px;
+    width: 260px;
+    border-radius: 57px;
+    padding-left: 31px;
+    border: none;
+    outline: none;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #222222;
+}

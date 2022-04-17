@@ -1,0 +1,9 @@
+.registration {
+    margin: 127px 0 0 0;
+    position: relative;
+    width: 100%;
+    min-height: 575px;
+    display: flex;
+    flex-direction: column;
+    background: #F0F5FB;
+}

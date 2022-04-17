@@ -53,3 +53,10 @@
 @import url(../blocks/Instagram/__window-border/Instagram__window-border.css);
 @import url(../blocks/Instagram/__networks/Instagram__networks.css);
 @import url(../blocks/Instagram/__text/Instagram__text.css);
+/* registration */
+@import url(../blocks/registration/registration.css);
+@import url(../blocks/registration/__titile/registration__titile.css);
+@import url(../blocks/registration/__form-conteiner/registration__form-conteiner.css);
+@import url(../blocks/registration/__form/registration__form.css);
+@import url(../blocks/registration/__button/registration__button.css);
+@import url();
