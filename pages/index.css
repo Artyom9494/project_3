@@ -43,3 +43,13 @@
 @import url(../blocks/menu/__price/menu__price.css);
 @import url(../blocks/menu/__buy/menu__buy.css);
 @import url(../blocks/menu/__random/menu__random.css);
+/* Instagram */
+@import url(../blocks/Instagram/Instagram.css);
+@import url(../blocks/Instagram/__grid/Instagram__grid.css);
+@import url(../blocks/Instagram/__img/Instagram__img.css);
+@import url(../blocks/Instagram/__img/_position-right/Instagram__img_position-right.css);
+@import url(../blocks/Instagram/__img/_position-left/Instagram__img_position-left.css);
+@import url(../blocks/Instagram/__window/Instagram__window.css);
+@import url(../blocks/Instagram/__window-border/Instagram__window-border.css);
+@import url(../blocks/Instagram/__networks/Instagram__networks.css);
+@import url(../blocks/Instagram/__text/Instagram__text.css);

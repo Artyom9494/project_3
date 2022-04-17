@@ -1,0 +1,10 @@
+.Instagram__window-border {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 440px;
+    height: 140px;
+    opacity: 1;
+    border: 2px solid #ffffff1f;
+    border-radius: 15px;
+}

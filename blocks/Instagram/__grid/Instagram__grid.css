@@ -1,0 +1,9 @@
+.Instagram__grid {
+    box-sizing: border-box;
+    width: 122%;
+    height: 260px;
+    display: grid;
+    grid-template-columns: repeat(6, 260px);
+    gap: 0px 40px;   
+    margin: 0 0 0 -160px;
+}
