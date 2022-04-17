@@ -1,0 +1,8 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 80.4%;
+    height: 66px;
+    margin: 33px auto 0;
+}

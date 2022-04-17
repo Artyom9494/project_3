@@ -16,3 +16,7 @@
     cursor: pointer;
     z-index: 2;
 }
+
+.registration__button:hover {
+    box-shadow: 2px 2px 2px #000;
+}
